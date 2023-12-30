@@ -1,0 +1,26 @@
+body {
+    background-color: #4942E4;
+    color: #11009E;
+  }
+
+  .center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #clock {
+    font-size: 50px;
+    background-color: #E6B9DE;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+ }
+
+  #banner{
+    color: #F6F7C4;
+    text-shadow:1px 1px  #11009E;
+    font-size: xx-large;
+  }
